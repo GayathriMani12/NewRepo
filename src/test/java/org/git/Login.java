@@ -7,4 +7,12 @@ public class Login {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void Method2() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	
+	
 }
